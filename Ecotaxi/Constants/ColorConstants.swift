@@ -1,0 +1,26 @@
+import SwiftUI
+
+struct ColorConstants {
+    static let Black900C1: Color = .init("Black900C1")
+    static let TealA40099: Color = .init("TealA40099")
+    static let TealA404: Color = .init("TealA404")
+    static let Black9008e: Color = .init("Black9008e")
+    static let Gray900: Color = .init("Gray900")
+    static let Black900A8: Color = .init("Black900A8")
+    static let Bluegray100: Color = .init("Bluegray100")
+    static let Black9003f: Color = .init("Black9003f")
+    static let AmberA400: Color = .init("AmberA400")
+    static let TealA400: Color = .init("TealA400")
+    static let Black90023: Color = .init("Black90023")
+    static let Black90066: Color = .init("Black90066")
+    static let Black900Dd: Color = .init("Black900Dd")
+    static let Black900: Color = .init("Black900")
+    static let Black90072: Color = .init("Black90072")
+    static let Cyan800: Color = .init("Cyan800")
+    static let Pink500: Color = .init("Pink500")
+    static let WhiteA700: Color = .init("WhiteA700")
+    static let Black900Ce: Color = .init("Black900Ce")
+    static let Black90016: Color = .init("Black90016")
+    static let Black900Af: Color = .init("Black900Af")
+    static let Cyan500: Color = .init("Cyan500")
+}
